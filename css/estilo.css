@@ -1,0 +1,10 @@
+
+#calc{
+    background-color: rgb(88, 212, 243);
+}
+#calc :hover{
+    background-color: black;
+    color: rgb(102, 153, 153);
+    cursor:pointer;
+
+}
