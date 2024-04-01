@@ -2,9 +2,14 @@
 #calc{
     background-color: rgb(88, 212, 243);
 }
-#calc :hover{
+#calc:hover{
     background-color: black;
     color: rgb(102, 153, 153);
     cursor:pointer;
 
+}
+#resultado{
+    font-size: 25px;
+    color: rgb(27, 105, 221);
+    margin-left: 50px;
 }
